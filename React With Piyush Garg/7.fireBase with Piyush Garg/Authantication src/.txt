@@ -1,0 +1,3 @@
+FireStore Database - Stored all the files in the form of documents stracture..
+Real time Database - Stored all the files in the form of tree staracture..
+

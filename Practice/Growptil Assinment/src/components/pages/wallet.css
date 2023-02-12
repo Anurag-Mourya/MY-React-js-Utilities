@@ -1,0 +1,50 @@
+.center {
+    position: absolute;
+    left: 22%;
+    top: 14%;
+    width: 40%;
+    height: 61%;
+    /* border: 1px solid white; */
+    
+}
+
+.green{
+    background: green;
+    padding: 20px;
+    border-radius: 15px;
+    width: 95%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+button{
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    padding: 5px 9px;
+}
+
+.btn1{
+    background: yellow;
+}
+.btn2{
+    background: rgb(57, 57, 53);
+    color: white;
+}
+
+.table1{
+    margin-top: 20px;
+    float: right;
+    width:96%;
+    padding: 52px;
+    line-height: 34px;
+}
+
+
+.spanIcon{
+    border: 1px solid gray;
+    padding: 4px;
+    border-radius: 4px;
+    margin: 3px;
+}

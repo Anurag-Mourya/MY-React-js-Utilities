@@ -1,0 +1,16 @@
+HTML interview questions--------------------------------------
+
+
+what is html tag--- used to indicate the beginning and end of an HTML element in an HTML document.
+-------------------------------------------------
+HTML Entities--Character entities are used to display reserved characters in HTML. ex...non-breaking space  &nbsp; © copyright  &copy;
+------------------------------
+
+HTML - <marquee> Tag--The HTML <marquee> tag is used for scrolling piece of text or image displayed either horizontally across or vertically down your web site pag EX----
+	<marquee direction = "up/down/left/right">The direction of</marquee>
+------------------------------------
+Ordered HTML List--type="1"	The list items will be numbered with numbers (default)
+
+Unordered Lists--disc,circle,square,none
+---------------------------------------------------
+What is a style sheet?---A style sheet is a file which tells a browser how to render a page. 

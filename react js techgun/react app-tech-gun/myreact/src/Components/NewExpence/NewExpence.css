@@ -1,0 +1,35 @@
+.new-expence{
+    background-color: rgb(194, 170, 216);
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px black;
+
+} 
+
+.new-expence button{
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid purple;
+    background-color: rgb(255, 101, 255);
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+}
+
+.new-expence button:hover,
+.new-expence button:active{
+   color: rgb(163, 117, 163);
+    border-color: transparent;
+    background-color: transparent;
+
+}
+
+.new-expence button.alternative:hover,
+.new-expence button.alternative:active{
+    background: #ddb3f8;
+}

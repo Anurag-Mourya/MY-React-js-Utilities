@@ -1,0 +1,73 @@
+.box2{
+    position: absolute;
+    right: 1%;
+    top: 16%;
+    /* border: 1px solid; */
+    width: 31%;
+    height: 60%;
+    
+}
+
+.box2 input{
+    background-color: rgb(81, 77, 77);
+    border: none;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.addMoney{
+    font-size: 21px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+button{
+    margin: 5px;
+    border-radius: 10px;
+    border: none;
+    background: yellow;
+    padding: 5px 20px;
+}
+
+.btn3{
+   background-color: green;
+}
+
+.sentMoney{
+    margin: 10px;
+    padding: 5px;
+    background: rgb(159 159 21 / 62%);
+    /* font-size: 5px; */
+    border: none;
+    border-radius: 10px;
+    color: white;
+   
+}
+
+.continue button{
+    width: 97%;
+    margin-left: 5px;
+    background-color: rgb(14, 255, 14);
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.moneyNot{
+    color: red;
+    font-size: large;
+    margin: 15px;
+    font-weight: bold;
+
+}
+
+.toBank{
+    position: absolute;
+    top: 57%;
+    left: 90px;
+}
+

@@ -1,0 +1,75 @@
+.box3{
+    position: absolute;
+    bottom: -33%;
+    right: -2%;
+    /* border: 1px solid white; */
+    width: 321%;
+    z-index: 900;
+    height: 142%;
+    /* filter: blur(4px); */
+    font-size: 13px
+}
+
+.innerBox{
+    position: absolute;
+    bottom: -26%;
+    border-radius: 15px;
+    right: 34%;
+    width: 38%;
+    line-height: 19px;
+    padding: 20px;
+    background: #524e4e;
+    box-shadow: 13px 15px 11px #85585800;
+}
+
+
+
+
+.innerBox p{
+    font-size: 16px;
+    color: #ffffffc2;
+}
+
+.tranCompleted{
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    background-color: rgb(100, 152, 100);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.mapDiv{
+    border: 1px solid #9f927a;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.mapName{
+    font-weight: bold;
+    color: white
+}
+
+.button2 button {
+    padding: 8px 41px;
+    margin: 19px 38px;
+    font-weight: bold;
+}
+
+.btnAbso{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+    background-color: #524e4e;
+    font-size: 18px;
+    color: red
+}
+
+.iconShow{
+    color: #a1efa1;
+    position: relative;
+    top: 7px;
+    right: 10px;
+}

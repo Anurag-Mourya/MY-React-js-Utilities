@@ -1,0 +1,5 @@
+
+-- Problum statement - When we call or rendered parent child is also rendered.
+--use case of callback - In react 1st time component is rendered sure.But rendering will happen 2nd time only when some changes is happed inside it.
+
+--def - What is useCallback in React? useCallback is a hook that will return a memoized version of the callback function that only changes if one of the dependencies has changed.

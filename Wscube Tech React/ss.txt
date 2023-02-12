@@ -1,0 +1,12 @@
+Q. 1) how does virtual dom works..
+
+
+
+React js --- react is a library jordan walk  current version is =18.2.0 / 14 June 2022, react also support server site like node js. php
+
+class and function component === when we use lifecycle method or state use class otherwise use fucntion component but in react 16.8 with the help of hooks we can use state and lifecycle methods in function component
+
+if we are change the state directilly the component is not render
+
+we use call back in setState because call back function is called when the setState is finished properly and then callback function is worked this is the asynchornus js..
+
